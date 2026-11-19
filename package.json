@@ -1,0 +1,12 @@
+{
+  "name": "abhiram-os-tracker",
+  "version": "2.0.0",
+  "description": "AbhiramOS daily discipline, coding, CGPA, and exam-mode tracker with optional Express backend.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
